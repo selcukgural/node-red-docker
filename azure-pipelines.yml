@@ -5,7 +5,7 @@ pool:
   vmImage: "ubuntu-latest"
 
 variables:
-  imageName: "pipelines-javascript-docker"
+  imageName: "oms-test-mock"
   DOCKER_BUILDKIT: 1
 
 steps:
